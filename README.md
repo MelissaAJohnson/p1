@@ -7,3 +7,6 @@ This project demonstrates that I have been successful setting up the environment
 My site leverages the Bootstrap framework.
 
 Project 1 live url: http://mjproductions.biz
+
+Making change for JIRA integration testing.
+Second change for JIRA integration testing.
