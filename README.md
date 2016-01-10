@@ -11,4 +11,4 @@ Project 1 live url: http://mjproductions.biz
 Second change for JIRA integration testing.
 Test message for JIRA-GitHub integration
 
-Test message for KTP-3. Message added after branch created.
+Test message for KTP-3.
