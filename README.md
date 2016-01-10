@@ -8,4 +8,5 @@ My site leverages the Bootstrap framework.
 
 Project 1 live url: http://mjproductions.biz
 
-Making change for JIRA integration testing
+Making change for JIRA integration testing.
+Second change for JIRA integration testing.
