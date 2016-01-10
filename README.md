@@ -12,3 +12,4 @@ Second change for JIRA integration testing.
 Test message for JIRA-GitHub integration
 
 Test message for KTP-3.
+Test message for KTP-4.
